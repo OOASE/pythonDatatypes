@@ -15,9 +15,9 @@
 # T[2] = 'is'
 # print(T2)
 
-# x = range(10)
-# for n in x:
-#   print(n)
+x = range(10)
+for n in x:
+  print(n)
 
 dict = {'name': 'kunle','shoesize' :42}
 print(type(dict))
