@@ -19,11 +19,11 @@
 # for n in x:
 #   print(n)
 
-# dict = {'name': 'kunle','shoesize' :42}
-# print(type(dict))
-# print(dict)
-# print(dict.get('name'))
-# print(dict['shoesize'])
+dict = {'name': 'kunle','shoesize' :42}
+print(type(dict))
+print(dict)
+print(dict.get('name'))
+print(dict['shoesize'])
 
 
 
